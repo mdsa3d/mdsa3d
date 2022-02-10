@@ -25,10 +25,11 @@
 <h3 align="left">Github Statistics:</h3>
 <p align="center">
   <a href = "https://github.com/mdsa3d">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api? username=mdsa3d&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=mdsa3d&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
   
-<p align="center"> <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsa3d&show_icons=true&locale=en&layout=compact" alt="mdsa3d" /> </a></p>
+<p align="center"> <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsa3d&show_icons=true&locale=en&layout=compact" alt="mdsa3d" /> </a>
+</p>
  
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mdsa3d"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdsa3d" /></a></p><br><br>
