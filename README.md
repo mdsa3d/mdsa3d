@@ -13,7 +13,7 @@
 <p>I am a machine learning and AI engineer with a strong passion for research!</p>
 
 - I develop algorithms for machine learning and data science applications.
-- I also work with GCP, Kubernetes and docker.
+- I work with GCP, Kubernetes and docker.
 - 🌱 I’m currently learning <b>CUDA, Reinforcement Learning and Advance Data Science</b></li>
 - 💬 Ask me about <b>julia, docker, linux</b></li>
 
