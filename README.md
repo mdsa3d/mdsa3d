@@ -14,7 +14,7 @@
 
 - I develop algorithms for machine learning and data science applications.
 - I work with GCP, Kubernetes and docker.
-- 🌱 I’m currently learning <b>CUDA, Reinforcement Learning and Advance Data Science</b></li>
+- 🌱 I’m currently learning <b>VR/AR, Reinforcement Learning and Advance Data Science</b></li>
 - 💬 Ask me about <b>julia, docker, linux</b></li>
 
 <div class="connect">
