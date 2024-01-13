@@ -33,6 +33,9 @@
     <a href="https://instagram.com/mdsa3d" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdsa3d" height="30" width="40" />
     </a>
+    <a href="https://huggingface.co/algoritic" target="blank">
+      <img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="mdsa3d" height="30" width="40" />
+    </a>
   </p>
 </div>
 
