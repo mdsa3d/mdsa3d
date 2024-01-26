@@ -1,7 +1,8 @@
 <!-- <video align="center" src="https://user-images.githubusercontent.com/75714714/165434733-18ff1cee-4f28-4795-a91c-9c2868a68e11.gif" autoplay loop width="100%">👋 Hi there! I'm Mohammad Saad"</video> -->
 ![Hi 👋, I'm Mohammad Saad!](https://user-images.githubusercontent.com/75714714/165434733-18ff1cee-4f28-4795-a91c-9c2868a68e11.gif)
 
-<h3 align="center">A passionate software developer/engineer</h3>
+<h3 align="center">👨‍💻 "Byte"-ing into Challenges with a Smile 😎 - I'm a Software & AI Developer/Engineer who "compiles" passion with creativity! <br> Debugging life one line at a time. 🐞=>🌟 { while(true) { code(); laugh(); innovate(); } }
+</h3>
 
 <!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mdsa3d&label=Profile%20views&color=0e75b6&style=flat" alt="mdsa3d" /> 
@@ -13,9 +14,9 @@
 <p>I am a machine learning and AI engineer with a strong passion for research!</p>
 
 - I develop algorithms for machine learning and data science applications.
-- I work with GCP, Kubernetes and docker.
-- 🌱 I’m currently learning <b>VR/AR, Reinforcement Learning and Advance Data Science</b></li>
-- 💬 Ask me about <b>julia, docker, linux</b></li>
+- I work with GCP, Azure, Langchain, LLMs and docker.
+- 🌱 I’m currently learning <b>AI Engineering, Reinforcement Learning and Advance Data Science</b></li>
+- 💬 Ask me about <b>MLOps, python, docker, linux</b></li>
 
 <div class="connect">
   <h3 align="left"><b>Connect with me:</b></h3>
